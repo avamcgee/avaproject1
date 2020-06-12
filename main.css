@@ -5,7 +5,8 @@ body {
 .sender-column {
     text-align: right;
 }
-h1 {font-size: 1.3em;
+h1 {
+    font-size: 1.3em;
 }
 p,ul,ol,dl,address {
     font-size: 1.1em;
